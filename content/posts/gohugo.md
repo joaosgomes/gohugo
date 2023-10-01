@@ -1,9 +1,12 @@
 +++
-title = 'HUGO First Steps'
+author = "João Gomes"
+title = "HUGO First Steps"
 date = 2023-10-01T00:28:15+01:00
 ReadingTime = 10
 Truncated = true
-Content = 'HUGO'
+Content = "HUGO"
+Description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+
 draft = false
 +++
 
