@@ -1,7 +1,8 @@
 baseURL = 'https://joaosgomes.github.io/gohugo/'
 languageCode = 'en-us'
-title = 'gohugo'
+title = 'HUGO Blog'
 theme = 'whiteplain'
+canonifyURLs = true
 
 
 
